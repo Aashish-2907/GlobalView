@@ -38,6 +38,9 @@ const router = createBrowserRouter([
       },
     ],
   },
+  {
+    basename: "/GlobalView", // 👈 Add this line
+  }
 ]);
 
 const App = () => {
