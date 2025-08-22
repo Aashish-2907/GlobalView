@@ -39,9 +39,6 @@ assets/ # Static assets (logos, icons, etc.)
 images/ # Image resources
 README.md
 
-yaml
-Copy
-Edit
 
 ---
 
